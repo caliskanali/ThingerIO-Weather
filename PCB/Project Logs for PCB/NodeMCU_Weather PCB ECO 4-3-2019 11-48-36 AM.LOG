@@ -1,0 +1,32 @@
+Added Component: Designator=C1(C0402(1005))
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(C0402(1005))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(R0402(1005))
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=3V3 Pin=NodeMCU-1-3V3
+Added Pin To Net: NetName=3V3 Pin=NodeMCU-1-3V3
+Added Pin To Net: NetName=3V3 Pin=NodeMCU-1-3V3
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=U1-4
+Added Net: Name=3V3
+Added Pin To Net: NetName=DATA Pin=NodeMCU-1-D7
+Added Pin To Net: NetName=DATA Pin=R1-1
+Added Pin To Net: NetName=DATA Pin=U1-2
+Added Net: Name=DATA
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=NodeMCU-1-GND
+Added Pin To Net: NetName=GND Pin=NodeMCU-1-GND
+Added Pin To Net: NetName=GND Pin=NodeMCU-1-GND
+Added Pin To Net: NetName=GND Pin=NodeMCU-1-GND
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=SCK Pin=NodeMCU-1-D6
+Added Pin To Net: NetName=SCK Pin=U1-3
+Added Net: Name=SCK
+Added Member To Class: ClassName=NodeMCU_Weather Member=Component C1 1uF
+Added Member To Class: ClassName=NodeMCU_Weather Member=Component C2 100nF
+Added Member To Class: ClassName=NodeMCU_Weather Member=Component R1 10K

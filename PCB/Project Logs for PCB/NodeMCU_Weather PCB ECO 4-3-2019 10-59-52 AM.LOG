@@ -1,0 +1,3 @@
+Added Component: Designator=U1(SHT11)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=NodeMCU_Weather Member=Component U1 SHT11

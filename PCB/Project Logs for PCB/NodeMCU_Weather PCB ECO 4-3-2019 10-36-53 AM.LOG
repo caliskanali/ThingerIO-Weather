@@ -1,0 +1,4 @@
+Added Component: Designator=NodeMCU-1(NodeMCU (+ LoLin))
+Add component. Clean all parameters for all variants
+Added Class: Name=NodeMCU_Weather
+Added Room: Name=NodeMCU_Weather
